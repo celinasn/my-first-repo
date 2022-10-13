@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+   <head>
+      <title>"Jubilee Austen | Portfolio"</title>
+   </head>
+   <body>
+      <header>
+         <div class="full-width">
+            <div class="half-width">
+            </div>
+         
+
+         </header>
+   <main>
+      <section id="about">
+      </section>
+      <section id="work">
+      </section>
+      <footer id="contact"> 
+      </footer>
+   </main>   
+</body>
+</html>
